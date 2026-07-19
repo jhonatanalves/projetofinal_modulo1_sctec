@@ -1,6 +1,6 @@
 {
   "versao": "v1",
-  "data_treinamento": "2026-07-17 13:26:53",
+  "data_treinamento": "2026-07-19 17:32:22",
   "modelo": "KNN (k=10)",
   "dataset": "kc_house_data.csv",
   "variavel_alvo": "price",
